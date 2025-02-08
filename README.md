@@ -86,7 +86,8 @@ Let's build the future of **private communication** together! 🚀
 
 🌟 **Star** the repo, **fork** it, and start **contributing today!**  
 
-💬 Have questions? Open an **issue** or start a **discussion**.  
+💬 Have questions? Open an **issue** or start a **discussion**.
+or Check ./SRS.md or ./ARCHITECTURE.md for more detail
 
 ---
 
