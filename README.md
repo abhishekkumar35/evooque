@@ -51,7 +51,7 @@ git clone https://github.com/abhishekkumar35/evooque.git
 ### 📌 Install Dependencies  
 
 ```bash
-cd evooque-chat-app
+cd evooque
 npm install
 ```
 
