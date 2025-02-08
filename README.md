@@ -90,7 +90,7 @@ Let's build the future of **private communication** together! 🚀
 
 ---
 
-Check [SRS.md](https://github.com/abhishekkumar35/evooque/blob/master/SRS.md) and [ARCHITECTURE.md](https://github.com/abhishekkumar35/evooque/blob/master/ARCHITECTURE.md) for more details
+Check [SRS.md](https://github.com/abhishekkumar35/evooque/blob/master/SRS.md) and [ARCHITECTURE.md](https://github.com/abhishekkumar35/evooque/blob/master/ARCHITECHTURE.md)) for more details
 
 ---
 
