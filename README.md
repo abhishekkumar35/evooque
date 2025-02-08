@@ -87,7 +87,10 @@ Let's build the future of **private communication** together! 🚀
 🌟 **Star** the repo, **fork** it, and start **contributing today!**  
 
 💬 Have questions? Open an **issue** or start a **discussion**.
-or Check ./SRS.md or ./ARCHITECTURE.md for more detail
+
+---
+
+Check [SRS.md](https://github.com/abhishekkumar35/evooque/blob/master/SRS.md) and [ARCHITECTURE.md](https://github.com/abhishekkumar35/evooque/blob/master/ARCHITECTURE.md) for more details
 
 ---
 
